@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hades-264 the git learner 
+- 👋 Hi, I’m @hades-264 a learner 
 -  I’m interested in in learning various frameworks and techs
 -  I’m currently learning html,css and JavaScript 
 -  I'm also uploading my solutions of practice problems of codechef,codeforces and leetcode.
