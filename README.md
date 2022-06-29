@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @hades-264 a learner 
-- Love to  do competitive programming and currently started doing Android Development.
+- Love to  do competitive programming.
+- Worked on an Android project named Sangiit(A Music Player).
+- Current exploring Front end and Backend development.
 
 <!---
 hades-264/hades-264 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
