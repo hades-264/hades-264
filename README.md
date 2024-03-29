@@ -8,3 +8,4 @@ hades-264/hades-264 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 [![HD's GitHub stats](https://github-readme-stats.vercel.app/api?username=hades-264)](https://github.com/hades-264/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hades-264)](https://github.com/hades-264/github-profile-trophy)
