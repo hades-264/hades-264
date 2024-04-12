@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hades-264 a learner 
 - Love to  do competitive programming.
-- Worked on an Android project named Sangiit(A Music Player).
+- Worked on an Android project named Sangeet(A Music Player).
 - Current exploring Front end and Backend development.
 
 <!---
