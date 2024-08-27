@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hades-264 a learner 
+- 👋 Hi, I’m Hritik.
 - Love to  do competitive programming.
 - I worked on an Android project named Sangeet(A music player).
 - Current exploring Front-end and Back-end development.
