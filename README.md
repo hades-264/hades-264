@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Hritik.
+- Check out my portfolio: [Hritik-Portfolio](https://hritik-dethaliya.vercel.app/).
 - Love to  do competitive programming.
 - I worked on an Android project named Sangeet(A music player).
 - Current exploring Front-end and Back-end development.
-- Check out my portfolio: [Hritik-Portfolio](https://www.hritik-dethaliya.vercel.app/).
 
 
 <!---
